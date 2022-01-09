@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<serializedJobs xmlns="http://www.narrowteq/darcy/Schema">
+    <version>1.0</version>
+    <id>1641694346860</id>
+    <serializedDownloadJob id="0">
+        <name>DarcyJobPackage</name>
+        <state>71</state>
+        <priority>500</priority>
+        <ignoreFilter>true</ignoreFilter>
+        <url>https://q3s.site/</url>
+        <parentJobId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <depth>0</depth>
+        <maxRetryCount>3</maxRetryCount>
+        <saveToDisk>true</saveToDisk>
+        <savePath>C:\Users\leome\darcy-out</savePath>
+        <tryResume>true</tryResume>
+    </serializedDownloadJob>
+    <serializedDownloadJobFilter>
+        <maxRecursionDepth>-1</maxRecursionDepth>
+        <urlPrefix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <allowedHostName>.*q3s.site</allowedHostName>
+        <saveToDisk>.*</saveToDisk>
+        <alreadyAddedUri>https://q3s.site/css/normalize.min.css</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/fontawesome-webfont.woff2</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/css/presell.min.css</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/DMCA.html</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/disclosure-agreement.html</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/fontawesome-webfont_1.eot</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/fontawesome-webfont.ttf</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHH4Nn.woff</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/marker.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/fontawesome-webfont.eot%23iefix&amp;v=4.7.0</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/js/presell.min.js</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/js/jquery.min.js</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/js/aes.js</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/fbf.jpg</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/1.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/checkbox.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/2.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/css/mobile.css</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/js/modernizr-2.6.2-respond-1.1.0.min.js</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/privacy-policy.html</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/decimal.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/terms-of-service.html</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/css/font-awesome.min.css</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/css/css.css</alreadyAddedUri>
+        <alreadyAddedUri>http://www.google.com/chromeframe/?redirect=true</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/3.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/contact.php</alreadyAddedUri>
+        <alreadyAddedUri>https://Facebook.com/</alreadyAddedUri>
+        <alreadyAddedUri>http://fontawesome.io/license</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/js/aeslib.js</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHHw.woff</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/fontawesome-webfont.woff</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/checkbox_selected.png</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/fonts/fontawesome-webfont.svg%23fontawesomeregular</alreadyAddedUri>
+        <alreadyAddedUri>http://browsehappy.com/</alreadyAddedUri>
+        <alreadyAddedUri>https://q3s.site/images/loading.gif</alreadyAddedUri>
+        <alreadyAddedUri>http://fontawesome.io/</alreadyAddedUri>
+        <dontLeaveDomain>true</dontLeaveDomain>
+        <dontStdAnything>false</dontStdAnything>
+    </serializedDownloadJobFilter>
+    <serializedMaxLinksToFollowFilter>
+        <maxLinksToFollow>-1</maxLinksToFollow>
+    </serializedMaxLinksToFollowFilter>
+    <serializedContextParameter>
+        <name>HttpRetrieverConfiguration</name>
+        <serializedHttpRetrieverConfiguration>
+            <maxConnectionsPerServer>2</maxConnectionsPerServer>
+            <sendReferer>true</sendReferer>
+            <bandwidthLimit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <proxyEnabled>false</proxyEnabled>
+            <proxyServer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <proxyPort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <proxyAuthenticationEnabled>false</proxyAuthenticationEnabled>
+            <proxyUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <proxyPassword xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <proxyRealm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <userAgent>DarcyRipper[1]</userAgent>
+        </serializedHttpRetrieverConfiguration>
+    </serializedContextParameter>
+    <serializedContextParameter>
+        <name>JobManagerConfiguration</name>
+        <serializedJobManagerConfiguration>
+            <dropIgnoredJobs>true</dropIgnoredJobs>
+            <dropFinishedJobs>false</dropFinishedJobs>
+        </serializedJobManagerConfiguration>
+    </serializedContextParameter>
+    <serializedDispatcherConfiguration>
+        <workerThreads>10</workerThreads>
+        <dispatchDelay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    </serializedDispatcherConfiguration>
+</serializedJobs>
